@@ -54,7 +54,7 @@ $("#indepth_boton_empezar").on("click",function(){
 	 var data = {
 				  "preguntas": [
 				    {
-				      "pregunta": "1",
+				      "pregunta": "América",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Ame1.png'>",
@@ -67,7 +67,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "2",
+				      "pregunta": "Atlas",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Atlas1.png'>",
@@ -80,7 +80,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "3",
+				      "pregunta": "Jaguares",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Chiapas1.png'>",
@@ -93,7 +93,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "4",
+				      "pregunta": "Chivas",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Chivas2.png'>",
@@ -106,7 +106,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "5",
+				      "pregunta": "Cruz Azul",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/CruzAzul1.png'>",
@@ -119,7 +119,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "6",
+				      "pregunta": "Gallos Blancos",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Gallos2.png'>",
@@ -132,7 +132,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "7",
+				      "pregunta": "Monarcas",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Monarcas2.png'>",
@@ -145,7 +145,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "8",
+				      "pregunta": "Monterrey",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Monterrey2.png'>",
@@ -158,7 +158,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "9",
+				      "pregunta": "Pachuca",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Pachuca2.png'>",
@@ -171,7 +171,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "10",
+				      "pregunta": "Puebla",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Puebla2.png'>",
@@ -184,7 +184,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "11",
+				      "pregunta": "Pumas",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Pumas1.png'>",
@@ -197,7 +197,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "12",
+				      "pregunta": "Santos",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Santos1.png'>",
@@ -210,7 +210,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "13",
+				      "pregunta": "Tigres",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Tigres1.png'>",
@@ -223,7 +223,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "14",
+				      "pregunta": "Toluca",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Toluca1.png'>",
@@ -236,7 +236,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				      ]
 				    },
 				    {
-				      "pregunta": "15",
+				      "pregunta": "Xolos",
 				      "respuestas": [
 				        {
 				          "respuesta": "<img class='option' src='images/respuestas/Xolos2.png'>",
