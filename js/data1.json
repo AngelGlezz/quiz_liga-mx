@@ -31,11 +31,11 @@
       "respuestas": [
         {
           "respuesta": "<img class='option' src='images/respuestas/Chiapas1.png'>",
-          "tipo": "false"
+          "tipo": "true"
         },
         {
           "respuesta": "<img class='option' src='images/respuestas/Chiapas2.png'>",
-          "tipo": "true"
+          "tipo": "false"
         }
       ]
     },

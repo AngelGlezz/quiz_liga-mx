@@ -300,6 +300,7 @@ $("#indepth_boton_empezar").on("click",function(){
 				$(this).addClass("mal");
 				respuestas_array[pregunta_num]=false;
 			}
+			$(this > '.option').css('opacity', '0');
 			
 			respuesta_cont.find('.indepth_respuesta_item').removeClass("active").addClass("disable");
 			respuesta_cont.find('.indepth_respuesta_item').click(false);
