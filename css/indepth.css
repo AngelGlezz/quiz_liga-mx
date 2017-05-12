@@ -455,10 +455,19 @@
 	color: #fff;
 }
 
-/*.indepth_respuesta_item.mal{
+.indepth_respuesta_item.bien{
+	background-image: url(../images/Bien.png);
+	opacity: 1;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.indepth_respuesta_item.mal{
 	background-image: url(../images/Mal.png);
 	opacity: 1;
-}*/
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
 
 .indepth_pregunta_img{
 	width: 100%;
@@ -696,7 +705,7 @@
 	
 	.indepth_pregunta_item{
 		max-width: 600px;
-    	width: 86%;
+    	width: 86%; 
 	}	
 	
 	.indepth_respuestas_cont{
